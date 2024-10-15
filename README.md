@@ -1,10 +1,9 @@
 # My Profile
 
 ## Name
-**Your Name**: 조재혁
+**my name**: 조재혁
 
 ## Programming Languages I Use
 1. **Python**
-   ```python
-   def hello_world():
-       print("Hello, World!")
+2. **C++**
+3.  **ROS2**  
